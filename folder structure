@@ -1,0 +1,12 @@
+AI_Accident_Detection_System/
+│
+├── main.py                     ← updated working code (60% done)
+├── alert_system.py              ← handles alert simulation
+├── utils/                       ← helper functions
+│   └── motion_detector.py
+├── sample_videos/
+│   └── example_accident.mp4
+├── outputs/
+│   └── accident_log.txt
+├── requirements.txt
+└── README.md
